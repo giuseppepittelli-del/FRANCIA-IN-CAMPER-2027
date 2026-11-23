@@ -1,3 +1,4 @@
+
 const CACHE='camper-francia-v12';
 const FILES=["./","./index.html","./manifest.json","./icon.png","./icon.svg","./images/chambord.jpg","./images/colmar.jpg","./images/paris.jpg","./images/etretat.jpg","./images/chenonceau.jpg","./images/annecy.jpg","./images/saint-malo.jpg","./images/mont-saint-michel.jpg","./images/versailles.jpg"];
 
