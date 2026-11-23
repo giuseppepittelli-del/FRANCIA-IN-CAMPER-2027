@@ -1,1 +1,15 @@
-{"name":"Camper Francia 2027 Premium","short_name":"Camper Francia 2027","start_url":"./","display":"standalone","background_color":"#f3f7f8","theme_color":"#123b37","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml"}]}
+{
+  "name": "Camper Francia 2027 Premium",
+  "short_name": "Camper Francia",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "./icon.png",
+      "sizes": "any",
+      "type": "image/png"
+    }
+  ]
+}
